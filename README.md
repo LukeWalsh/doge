@@ -18,6 +18,11 @@ examples wow
 ------------
 
     doge fetch http://www.google.com
+    doge look
+    doge wow shibe
+    doge compare README.md doge.bash
+    doge edit README.md
+    doge bury hole.zip doge.bash
 
 hungry doge pls feed
 --------------------
