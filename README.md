@@ -3,7 +3,7 @@ doge
 
 such syntax, much command line, very future
 
-much installation
+such installation
 -----------------
 
     chmod +x doge.bash
