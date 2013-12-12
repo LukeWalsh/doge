@@ -1,6 +1,8 @@
 doge
 ====
 
+such syntax, much command line, very future
+
 much installation
 -----------------
 
