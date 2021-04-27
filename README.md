@@ -27,4 +27,4 @@ examples wow
 hungry doge pls feed
 --------------------
 
-BTC: 12bcxT8b7DxZjgCJih4JjEnbexFNitDQoX
+BTC: [DM, so secure, very private, wow]
